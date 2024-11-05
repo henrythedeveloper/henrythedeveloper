@@ -1,4 +1,4 @@
-# **Yo!** 👊
+# **Yo!** ✌️
 Welcome to my GitHub! I'm an undergraduate computer science student, working on a range of projects that blend my interests in generative AI, explainable AI (XAI), e-commerce, and web development. My work spans from full-stack development to deep learning applications, showcasing my learning journey and hands-on experience. 💻✨
 
 # **Projects** 🛠️
